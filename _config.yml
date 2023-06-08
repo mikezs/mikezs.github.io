@@ -1,3 +1,2 @@
 theme: jekyll-theme-midnight
-include: 
-  - .well-known/
+include: [".well-known"]
